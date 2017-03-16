@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="bossController">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIQAACCAACAAAAACAIQQAQAKAEAgAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\bossController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bossFireController">
+    <Position X="20.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAACAACDAAAgAAAAQAQAIAEAgAAAAABAEAAAAAAA=</HashCode>
+      <FileName>Assets\bossFireController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lightCheckMafia">
+    <Position X="12" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAACAAAAAAAAAAAAAAIQAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\lightCheckMafia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="orbControllerPlayer1">
+    <Position X="15.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACBAAAAAAAAAAAAAECAAACABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\orbControllerPlayer1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonSettings">
+    <Position X="9.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAAAAAAAABAAABAAAAAAAAAAAAAAACAAAAAAAAEA=</HashCode>
+      <FileName>Assets\scripts\Add\ButtonSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="highscore">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Add\highscore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelManagerUnlocked">
+    <Position X="21.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAQAEAAAAAAAAAAAABwBAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\scripts\Add\LevelManagerUnlocked.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="27.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAQA=</HashCode>
+      <FileName>Assets\scripts\Add\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseGame">
+    <Position X="19.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Add\PauseGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveData">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\scripts\Add\SaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="charData">
+    <Position X="10.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAQAAAAAAASAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Add\SaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreKeeper">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQABAgAAAAIAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Add\ScoreKeeper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Timer">
+    <Position X="13.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAgAAAAEAgABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Add\Timer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bossHealth">
+    <Position X="25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\bossHealth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="camera2DFollow">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAiAAAAAAJAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\camera2DFollow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DestroyMe">
+    <Position X="17.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\scripts\DestroyMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="enemyDamage">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgACAAASBAgAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\enemyDamage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="enemyfirecontroller">
+    <Position X="23.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAACQACBAAIgCAAQAAQAKgEAAAAAAABAACAAAAAA=</HashCode>
+      <FileName>Assets\scripts\enemyfirecontroller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="enemyHealth">
+    <Position X="25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACCACAABAAAQAFAAAAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\enemyHealth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="enemyMovementController">
+    <Position X="19.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAACCQACBAAIACAAQAAQAKgEAAAAAAAAAACAAQAAA=</HashCode>
+      <FileName>Assets\scripts\enemyMovementController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fallDeath">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\fallDeath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hitboxmanager">
+    <Position X="23.25" Y="10.25" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="hitboxmanager.hitBoxes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\scripts\hitboxmanager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAACAAAAAEAAACAAAAAEAAAAAAAAAAEQAQAAA=</HashCode>
+      <FileName>Assets\scripts\hitboxmanager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="knifeController">
+    <Position X="12" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAACgAAAAAAAACAAAAAAAAABAABAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\scripts\knifeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="knifeHit">
+    <Position X="21.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAAAAAAAAAAAAAAEAAAgABAAAAAAAQAEA=</HashCode>
+      <FileName>Assets\scripts\knifeHit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lightCheck">
+    <Position X="17.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAACAAAAAAAAAAAAAAIQAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\lightCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="orbController">
+    <Position X="24.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACBAAAAAAAAAAAAAECAAACABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\orbController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="playerController">
+    <Position X="10.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAQAEEgAAiICAAwAAQAiIAAAARAABAAAEBAAAAIAAAA=</HashCode>
+      <FileName>Assets\scripts\playerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="playerController2">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oIQAEEgAAiICAAwAAQAiIAAAARAABAAAEBAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\playerController2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="playerDamage">
+    <Position X="12.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\playerDamage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="playerHealth">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIBAAAACAAAAAACAABABAAAAAFBAgAAIAAAIAAAIA=</HashCode>
+      <FileName>Assets\scripts\playerHealth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projecttileController">
+    <Position X="13.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAACAAAAAAAAABAAAAAAAAACAAEA=</HashCode>
+      <FileName>Assets\scripts\projecttileController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="resetLevel">
+    <Position X="15.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAACAAACAAAAEAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\resetLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rocketHit">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAABAAAAAAAAAAAAAAEAAAgAAAAAAAAAQAEA=</HashCode>
+      <FileName>Assets\scripts\rocketHit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rockhitplayer">
+    <Position X="1.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAABAAAAAAAAAAAAAAEAAAgAAAAAAAAAQAEA=</HashCode>
+      <FileName>Assets\scripts\rockhitplayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="switchscene2">
+    <Position X="17.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\switchscene2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="switchscenesecond1">
+    <Position X="17.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\scripts\switchscenesecond1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="switchscenesecond2">
+    <Position X="3.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\scripts\switchscenesecond2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="switchscenethird1">
+    <Position X="3.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAEAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\switchscenethird1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="switchscenethird2">
+    <Position X="7.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAgAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\switchscenethird2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="trapDamage">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAASBAgAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\trapDamage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
